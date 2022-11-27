@@ -35,3 +35,69 @@ Our community members have helped in multiple initiatives and/or projects that a
 * CV4Africa Workshop in DLIndaba next year. We are working on organizing a computer vision for Africa workshop with two tracks of submissions (Datasets - Methods). Where the first track focuses on datasets for Africans on applications that are relevant to us, while the second track is about the algorithms, architectures and computer vision approaches that serve our African communities. We are also working with Zindi to host a challenge as part of the workshop.
 * Computer Vision for Africa, A Survey. We are currently working together on building a survey for both datasets and methods that are for Africans and by Africans. Part of the survey we aim as well to list the applications and datasets that we currently have a need for but are under-explored by the current CV research.
 * Weekly Reading Groups on Sundays 3:00 pm UTC. We have studied fundamentals of meta-learning, fewshot learning, and vision transformers. Additionally, we had one hands-on practical on ViTs. Next we are focusing on medical image processing application and a continuation of studying recent vision transformers research and their intersection with medical image processing.
+
+# Study/Reading Materials
+
+## Few-shot/Meta-Learning:
+
+- Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning 
+Link (https://sites.google.com/view/icml19metalearning)
+ 
+-Prototypical Networks for Few-shot Learning 
+Link (https://arxiv.org/abs/1703.05175)
+
+- A Closer Look at Few-shot Classification 
+Link (https://arxiv.org/abs/1904.04232)
+
+- Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples 
+Link (https://arxiv.org/abs/1903.03096)
+
+- Few-Shot Segmentation via Cycle-Consistent Transformer 
+-Link (https://arxiv.org/abs/2106.02320)
+
+-PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment 
+Link (https://arxiv.org/abs/1908.06391)
+
+## Transformers and ViTs:
+- Introduction to Transformers from here: 
+Link (https://jalammar.github.io/illustrated-transformer/)
+- AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+Link (https://arxiv.org/pdf/2010.11929v2.pdf)
+
+- End-to-End Object Detection with Transformers 
+Link (https://arxiv.org/abs/2005.12872)
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+Link (https://arxiv.org/abs/2103.14030)
+
+- YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss 
+Link (https://arxiv.org/abs/2204.06806)
+
+- Masked-attention Mask Transformer for Universal Image Segmentation
+Link (https://arxiv.org/abs/2112.01527)
+
+
+# Hands-on Practicals:
+
+Please list the practical from Ahmed Shahin on ViTs here: 
+- Slides:
+https://drive.google.com/file/d/10cAPZlpHJs3BwdpCPH6g0IKehQ1qNA4u/view?usp=sharing
+- Recording: 
+https://drive.google.com/file/d/1qTb5nfJiLuIjRzwEkaUqA-fBXs3WCONk/view?usp=sharing
+
+
+# Events
+
+Similar to ongoing projects if you can make it as a dropdown list and include the following under it CV4Africa Workshop: Preferrably leave it empty now till we get confirmation that we can host it in DLIndaba next year thanks so we can make a placeholder with page as TBD.
+
+
+
+
+# People
+Please use this list for community members that I will work on increasing as we go awaiting others to reply on slack
+
+Photos will be uploaded here: https://drive.google.com/drive/folders/1BJ2uc1d8khh7iSx-WPuLLapA0i_z2CxI?usp=sharing
+
+Again still waiting for others to reply.
+
+# Contact us:
+Please use this email: roya.cv4africa@gmail.com
